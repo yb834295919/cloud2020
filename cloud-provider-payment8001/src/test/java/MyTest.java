@@ -9,6 +9,6 @@ public class MyTest {
     public void t1(){
         System.out.println("hfjkfhkjf");//master测试
         System.out.println("hfjkfhkjf");//hotfix测试
-        System.out.println("hello,word");
+        System.out.println("hello,word");//local
     }
 }
