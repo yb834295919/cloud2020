@@ -7,6 +7,6 @@ import org.junit.Test;
 public class MyTest {
     @Test
     public void t1(){
-        System.out.println("hfjkfhkjf");
+        System.out.println("hfjkfhkjf");//master测试
     }
 }
