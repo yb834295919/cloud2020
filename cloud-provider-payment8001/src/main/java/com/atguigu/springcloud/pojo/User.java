@@ -1,6 +1,9 @@
 package com.atguigu.springcloud.pojo;
 
-import lombok.*;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
 /**
  * @author BinYi
@@ -13,5 +16,11 @@ public class User {
     private String name;
     private Integer id;
     private String job;
+
+    public static void main(String[] args) {
+        User user = new User();
+
+
+    }
 
 }
